@@ -1,0 +1,237 @@
+﻿<!doctype html>  
+<!--[if IE 6 ]>
+<html lang="en-us" class="ie6" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"> <![endif]-->
+<!--[if IE 7 ]>
+<html lang="en-us" class="ie7" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"> <![endif]-->
+<!--[if IE 8 ]>
+<html lang="en-us" class="ie8" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"> <![endif]-->
+<!--[if (gt IE 7)|!(IE)]><!-->
+<html lang="en-us" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	
+	<title>SuperFine - Template User Guide</title>
+	
+	<meta name="description" content="">
+	<meta name="author" content="IT-RAYS">
+	<meta name="copyright" content="IT-RAYS">
+	<meta name="generator" content="Documenter v2.0 http://rxa.li/documenter">
+	<meta name="date" content="2015-02-07T00:00:00+01:00">
+	
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css" media="all">
+	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+	<link rel="stylesheet" href="assets/css/documenter_style.css" media="all">
+	<link rel="stylesheet" href="assets/js/google-code-prettify/prettify.css" media="screen">
+	<script src="assets/js/google-code-prettify/prettify.js"></script>
+
+	<script src="assets/js/jquery.js"></script>
+	
+	<script src="assets/js/jquery.scrollTo.js"></script>
+	<script src="assets/js/jquery.easing.js"></script>
+	
+	<script>document.createElement('section');var duration='500',easing='swing';</script>
+	<script src="assets/js/script.js"></script>
+	
+	<style>
+		::-moz-selection{background:#333636;color:#00DFFC;}
+		::selection{background:#333636;color:#00DFFC;}
+		#documenter_sidebar #documenter_logo{background-image:url(assets/images/logo.png);visibility:hidden}
+		a{color:#008C9E;}
+		.btn {
+			border-radius:3px;
+		}
+		.btn-primary {
+			  border-color: #006673 #006673 #bfbfbf;
+		color: #FFFFFF !important;
+		background-image: linear-gradient(top, #008C9E, #006673) !important;
+	}
+		.btn-primary:hover,
+		.btn-primary:active,
+		.btn-primary.active,
+		.btn-primary.disabled,
+		.btn-primary[disabled] {
+		  border-color: #008C9E #008C9E #bfbfbf !important;
+		  background-color: #006673 !important;
+		}
+		#documenter_sidebar, #documenter_sidebar ul a{background-color:#343838;color:#FFFFFF;}
+		#documenter_sidebar ul a{-webkit-text-shadow:1px 1px 0px #494F4F;-moz-text-shadow:1px 1px 0px #494F4F;text-shadow:1px 1px 0px #494F4F;font-size:13px;font-weight:normal}
+		#documenter_sidebar ul{border-top:1px solid #212424;}
+		#documenter_sidebar ul a{border-top:1px solid #494F4F;border-bottom:1px solid #212424;color:#FFFFFF;}
+		#documenter_sidebar ul a:hover{background:#333636;color:#00DFFC;border-top:1px solid #333636;}
+		#documenter_sidebar ul a.current{background:#333636;color:#00DFFC;border-top:1px solid #333636;}
+		#documenter_copyright{display:block !important;visibility:visible !important;}
+	</style>
+	
+</head>
+<body class="documenter-project-SuperFine">
+<div id="documenter_content" style="left:0">
+	<section>
+		<h1 style="font-weight: 900;font-size: 34px;color: #089;text-transform:uppercase">EXCEPTION</h1>
+		<h2 style="font-size: 15px;color: #B0B0B0;font-weight: 100;">Template Change Log</h2>
+		<hr>			
+	</section>
+	<section>
+		<div class="page-header"><h3>Version 2.0.1</h3><hr class="notop"></div>
+		<ul class="list">
+			<li><strong>Update:</strong> Replace jquery.sharrre.min.js.</li>
+			<li><strong>Changed Social Share Post Pluign: </strong>&nbsp;<ul>
+					<li>copy the new <strong>easyshare.php</strong> to the php folder.</li>
+					<li><strong>style.css: </strong> Find :
+<pre class="prettyprint lang-css linenums">
+.share-post .sh, .share-post ul li {
+	float: left;
+	margin-right: 2px;
+}
+.share-post .sh, .share-post ul li a {
+	display: block;
+	padding: 8px 10px;
+	font-size: 15px;
+}
+.share-post .sh {
+	display: block;
+	font-weight: bold;
+}
+.share-post ul li i {
+	margin: 0;
+	padding: 3px;
+}
+
+
+</pre>	
+					</li>
+					<li><strong>Replace it </strong> With :
+<pre class="prettyprint lang-css linenums">
+.share-post .sh{
+	float: left;
+	display: block;
+	padding: 0 15px;
+	font-weight: bold;
+	font-size: 13px;
+	line-height:45px
+}
+.share-post > div{
+	float:left;
+	height:45px
+}
+.share-post button{
+	margin:0;
+	border:0;
+	padding:0 15px;
+	line-height:45px;
+	font-size:16px;
+	float:left
+}
+.share-post .facebook{
+	background:#1b57a1;
+	color:#fff
+}
+.share-post .twitter{
+	background:#0cbce2;
+	color:#fff
+}
+.share-post .googleplus{
+	background:#dd4b39;
+	color:#fff
+}
+.share-post .linkedin{
+	background:#1583ba;
+	color:#fff
+}
+.share-post .pinterest{
+	background:#bd2126;
+	color:#fff
+}
+.share-post .xing{
+	background:#006464;
+	color:#fff
+}
+
+</pre>	
+					</li>
+					<li><strong>in blog single pages</strong> find: <br>
+<pre class="prettyprint lang-css linenums">
+&lt;div class=&quot;share-post shape&quot;&gt;
+	&lt;div id=&quot;shareme&quot; data-text=&quot;Share this post&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+</pre>					
+					</li>
+					<li><strong>Replace it with:</strong> <br>
+<pre class="prettyprint lang-css linenums">
+&lt;div class=&quot;share-post shape&quot;&gt;
+	&lt;div id=&quot;share_btns&quot; data-easyshare data-easyshare-url=&quot;&quot;&gt;
+		&lt;button class=&quot;facebook&quot; data-easyshare-button=&quot;facebook&quot;&gt;
+			&lt;span class=&quot;fa fa-facebook&quot;&gt;&lt;/span&gt;
+			&lt;span class=&quot;share_num&quot; data-easyshare-button-count=&quot;facebook&quot;&gt;&lt;/span&gt;
+		&lt;/button&gt;
+		
+		&lt;button class=&quot;twitter&quot; data-easyshare-button=&quot;twitter&quot; data-easyshare-tweet-text=&quot;&quot;&gt;
+			&lt;span class=&quot;fa fa-twitter&quot;&gt;&lt;/span&gt;
+			&lt;span class=&quot;share_num&quot; data-easyshare-button-count=&quot;twitter&quot;&gt;&lt;/span&gt;
+		&lt;/button&gt;
+		
+		&lt;button class=&quot;googleplus&quot; data-easyshare-button=&quot;google&quot;&gt;
+			&lt;span class=&quot;fa fa-google-plus&quot;&gt;&lt;/span&gt;
+			&lt;span class=&quot;share_num&quot; data-easyshare-button-count=&quot;google&quot;&gt;&lt;/span&gt;
+		&lt;/button&gt;
+		
+		&lt;button class=&quot;linkedin&quot; data-easyshare-button=&quot;linkedin&quot;&gt;
+			&lt;span class=&quot;fa fa-linkedin&quot;&gt;&lt;/span&gt;
+			&lt;span class=&quot;share_num&quot; data-easyshare-button-count=&quot;linkedin&quot;&gt;&lt;/span&gt;
+		&lt;/button&gt;
+		
+		&lt;button class=&quot;pinterest&quot; data-easyshare-button=&quot;pinterest&quot;&gt;
+			&lt;span class=&quot;fa fa-pinterest-p&quot;&gt;&lt;/span&gt;
+			&lt;span class=&quot;share_num&quot; data-easyshare-button-count=&quot;pinterest&quot;&gt;&lt;/span&gt;
+		&lt;/button&gt;
+		
+		&lt;button class=&quot;xing&quot; data-easyshare-button=&quot;xing&quot;&gt;
+			&lt;span class=&quot;fa fa-xing&quot;&gt;&lt;/span&gt;
+			&lt;span class=&quot;share_num&quot; data-easyshare-button-count=&quot;xing&quot;&gt;&lt;/span&gt;
+		&lt;/button&gt;
+		
+		&lt;button class=&quot;black-bg&quot; data-easyshare-button=&quot;total&quot;&gt;
+			&lt;span data-easyshare-total-count&gt;0&lt;/span&gt;
+		&lt;/button&gt;
+		
+		&lt;div data-easyshare-loader&gt;Loading...&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</pre>					
+					</li>
+					<li>in <strong>script.js</strong> find and remove:<br>
+<pre class="prettyprint lang-css linenums">
+/* ================ Social share blog buttons plugin. ================ */
+$(&#39;#shareme&#39;).sharrre({
+share: {
+twitter: true,
+facebook: true,
+googlePlus: true
+},
+template: &#39;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;facebook main-bg&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;twitter main-bg&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;googleplus main-bg&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;alter-bg&quot;&gt;{total}&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&#39;,
+enableHover: false,
+enableTracking: true,
+url: document.location.href,
+render: function(api, options){
+$(api.element).on(&#39;click&#39;, &#39;.twitter&#39;, function() {
+api.openPopup(&#39;twitter&#39;);
+});
+$(api.element).on(&#39;click&#39;, &#39;.facebook&#39;, function() {
+api.openPopup(&#39;facebook&#39;);
+});
+$(api.element).on(&#39;click&#39;, &#39;.googleplus&#39;, function() {
+api.openPopup(&#39;googlePlus&#39;);
+});
+}
+});
+</pre>					
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</section>
+	
+
+	
+	</div>
+</body>
+</html>
