@@ -82,10 +82,10 @@
    
    10. WIDGETS.
    11. FOOTER.
-   		11.1. Footer Style 1
-   		11.2. Footer Style 2
-   		11.3. Footer Style 3
-   		11.4. Footer Style 4
+   		11.1. footer Style 1
+   		11.2. footer Style 2
+   		11.3. footer Style 3
+   		11.4. footer Style 4
    12. FIXED LAYOUT STYLES.
    13. Exception PopUp STYLES.
 ============================================================================= */
@@ -5955,7 +5955,7 @@ a.wit-btn {
 	font-family: FontAwesome;
 }
 
-/******* Footer NewsLetters *******/
+/******* footer NewsLetters *******/
 .foot-logo {
 	height: 40px;
 	margin: 0 auto 5px;
@@ -6058,7 +6058,7 @@ footer .no-margin{
 .footer-contact span {
 	display: table-cell;
 }
-/******* Footer Flickr **********/
+/******* footer Flickr **********/
 .footer-top .flickr-stream-w ul li a{
 	height:61px
 }
