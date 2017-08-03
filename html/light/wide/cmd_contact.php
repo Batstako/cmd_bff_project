@@ -272,10 +272,11 @@ $_SESSION['captcha'] = simple_php_captcha();
                         <ul class="footer-menu">
                             <li><a href="CMD_home.html">Начало</a></li>
                             <li><a href="cmd_about.html">За нас</a></li>
-                            <!--										<li><a href="blog.html">Our Blog</a></li>-->
+                            <!--<li><a href="blog.html">Our Blog</a></li>-->
+                            <li><a href="cmd_services.html">Услуги</a></li>
                             <li><a href="cmd_portfolio_all.html">Портфолио</a></li>
                             <li><a href="cmd_privacy.html">Импресум</a></li>
-                            <li><a href="cmd_FAQ.html">FAQ</a></li>
+                            <!--<li><a href="cmd_FAQ.html">FAQ</a></li>-->
                         </ul>
                     </div>
                     <!-- main menu footer cell end -->
@@ -284,11 +285,9 @@ $_SESSION['captcha'] = simple_php_captcha();
                     <div class="cell-4">
                         <h3 class="block-head">Партньори</h3>
                         <ul class="footer-menu">
-                            <li><a href="#">adipiscing elit Integer</a></li>
-                            <li><a href="#">magna euismod</a></li>
-                            <li><a href="#">purus molestie</a></li>
-                            <li><a href="#">adipiscing elit Integer</a></li>
-                            <li><a href="#">purus molestie</a></li>
+                            <li><a href="BFF_home.html">Бългериън Фиш Фармс ЕООД</a></li>
+                            <li><a href="http://www.kroma.dk/">Kroma A/S</a></li>
+                            <li><a href="http://www.interaqua.dk/">Inter Aqua Advans A/S</a></li>
                         </ul>
                     </div>
                     <!-- Our Friends footer cell end -->
@@ -316,7 +315,7 @@ $_SESSION['captcha'] = simple_php_captcha();
                             <li class="footer-contact"><i class="fa fa-phone"></i><span>359 (0) 2 843 04 27</span></li>
                             <li class="footer-contact"><i class="fa fa-phone"></i><span>359 (0) 894 682 347</span></li>
                             <li class="footer-contact"><i class="fa fa-map-marker"></i><span><a
-                                        href="cmd_contact.php#enterCode">View our map</a></span></li>
+                                        href="cmd_contact.php#enterCode">Покажи на картата</a></span></li>
                         </ul>
                     </div>
                     <!-- Useful Links footer cell start -->

@@ -7,7 +7,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<title>EXCEPTION – Responsive Business HTML Template</title>
+		<title>Бългериън Фиш Фармс</title>
 		<meta name="description" content="EXCEPTION – Responsive Business HTML Template">
 		<meta name="author" content="EXCEPTION">
 		
@@ -106,7 +106,7 @@
 		<header class="top-head" data-sticky="true">
 			<div class="container">
 				<div class="row">
-					<div class="logo cell-3">
+					<div class="logo1 cell-3">
 						<a href="BFF_home.html"></a>
 					</div>
 					<div class="cell-9 top-menu">
@@ -361,7 +361,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="cell-12">
-								<h1 class="fx" data-animate="fadeInLeft">Контакти <span></span></h1>
+								<h1 class="fx" data-animate="fadeInLeft" style="color:white">Контакти <span></span></h1>
 								<div style="visibility:hidden" class="breadcrumbs main-bg fx" data-animate="fadeInUp">
 									<span class="bold">You Are In:</span><a href="#">Home</a><span class="line-separate">/</span><a href="#">Pages </a><span class="line-separate">/</span><span id="getInTouch">Contact us</span>
 								</div>
@@ -475,7 +475,7 @@
 								<script type="text/javascript">
 									function init_map(){
 										var br = '<br>'
-										var textOfInfoWindow = "СМД Интернешънъл Груп" +'<br>'+ "1505 София, ул. Алеко Константинов 42," +'<br>'+ "етаж 3, офис 6"  ;
+										var textOfInfoWindow = "Бългериън Фиш Фармс ЕООД" +'<br>'+ "1505 София, ул. Алеко Константинов 42," +'<br>'+ "етаж 3, офис 6"  ;
 										var myOptions = {zoom:     18,
 											center:    new google.maps.LatLng(42.6976021,23.3492556),
 											mapTypeId: google.maps.MapTypeId.ROADMAP};
@@ -522,7 +522,8 @@
                                 <div class = "cell-4">
                                     <h3 class = "block-head">Партньори</h3>
                                     <ul class = "footer-menu">
-                                        <li><a href = "http://www.kroma.dk/">Kroma A/S</a></li>
+										<li><a href = "CMD_home.html">CMD-INTERNATIONAL GROUP</a></li>
+										<li><a href = "http://www.kroma.dk/">Kroma A/S</a></li>
                                         <li><a href = "http://www.interaqua.dk/">Inter Aqua Advans A/S</a></li>
                                         <!--<li><a href = "#">purus molestie</a></li>-->
                                         <!--<li><a href = "#">adipiscing elit Integer</a></li>-->
@@ -553,8 +554,8 @@
                                         <li class = "footer-contact"><i class = "fa fa-map-marker">
                                             </i><span>София, ул. Алеко Константинов 42, ет.3</span>
                                         </li>
-                                        <li class = "footer-contact"><i class = "fa fa-globe"></i><span>
-							<a href = "#">office@bff.com</a></span>
+                                        <li class = "footer-contact">
+											<i class = "fa fa-globe"></i><span><a href = "#">office@bff.com</a></span>
                                         </li>
                                         <li class = "footer-contact">
                                             <i class = "fa fa-phone"></i><span>359 (0) 2 843 04 27</span>
@@ -563,8 +564,7 @@
                                             <i class = "fa fa-phone"></i><span>359 (0) 894 682 347</span>
                                         </li>
                                         <li class = "footer-contact">
-                                            <i class = "fa fa-map-marker"></i><span>
-							<a href = "bff_contact.php#enterCode">Покажи на картата</a></span>
+                                            <i class = "fa fa-map-marker"></i><span><a href = "bff_contact.php#enterCode">Покажи на картата</a></span>
                                         </li>
                                     </ul>
                                 </div>

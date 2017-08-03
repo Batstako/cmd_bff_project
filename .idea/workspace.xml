@@ -1,7 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23625200-e691-48cb-b2e4-c1b9e5d350f1" name="Default" comment="" />
+    <list default="true" id="23625200-e691-48cb-b2e4-c1b9e5d350f1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/images/bff/our_services/1.jpg" afterPath="$PROJECT_DIR$/html/light/wide/images/bff/our_services/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/images/logo_bff.png" afterPath="$PROJECT_DIR$/html/light/wide/images/logo_bff.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/images/slider/slider-3/slide-1-bg.jpg" afterPath="$PROJECT_DIR$/html/light/wide/images/slider/slider-3/slide-1-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/images/slider/slider-3/slide-2-bg.jpg" afterPath="$PROJECT_DIR$/html/light/wide/images/slider/slider-3/slide-2-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/images/slider/slider-3/slide-4-bg.jpg" afterPath="$PROJECT_DIR$/html/light/wide/images/slider/slider-3/slide-4-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/BFF_home.html" afterPath="$PROJECT_DIR$/html/light/wide/BFF_home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/CMD_home.html" afterPath="$PROJECT_DIR$/html/light/wide/CMD_home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/bff_FAQ.html" afterPath="$PROJECT_DIR$/html/light/wide/bff_FAQ.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/bff_about.html" afterPath="$PROJECT_DIR$/html/light/wide/bff_about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/bff_contact.php" afterPath="$PROJECT_DIR$/html/light/wide/bff_contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/bff_current_news.html" afterPath="$PROJECT_DIR$/html/light/wide/bff_current_news.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/bff_details.html" afterPath="$PROJECT_DIR$/html/light/wide/bff_details.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_1.html" afterPath="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_2.html" afterPath="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_3.html" afterPath="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_4.html" afterPath="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_5.html" afterPath="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_6.html" afterPath="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_6.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_7.html" afterPath="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_7.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/bff_portfolio_all.html" afterPath="$PROJECT_DIR$/html/light/wide/bff_portfolio_all.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/bff_privacy.html" afterPath="$PROJECT_DIR$/html/light/wide/bff_privacy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/bff_services.html" afterPath="$PROJECT_DIR$/html/light/wide/bff_services.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/cmd_FAQ.html" afterPath="$PROJECT_DIR$/html/light/wide/cmd_FAQ.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/cmd_about.html" afterPath="$PROJECT_DIR$/html/light/wide/cmd_about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/cmd_contact.php" afterPath="$PROJECT_DIR$/html/light/wide/cmd_contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/cmd_current_news.html" afterPath="$PROJECT_DIR$/html/light/wide/cmd_current_news.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/cmd_group_details.html" afterPath="$PROJECT_DIR$/html/light/wide/cmd_group_details.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_1.html" afterPath="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_2.html" afterPath="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_3.html" afterPath="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_4.html" afterPath="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_5.html" afterPath="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_6.html" afterPath="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_6.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_7.html" afterPath="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_7.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_8.html" afterPath="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_8.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_9.html" afterPath="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_9.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/cmd_portfolio_all.html" afterPath="$PROJECT_DIR$/html/light/wide/cmd_portfolio_all.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/cmd_privacy.html" afterPath="$PROJECT_DIR$/html/light/wide/cmd_privacy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/cmd_services.html" afterPath="$PROJECT_DIR$/html/light/wide/cmd_services.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/cmd_services_single.html" afterPath="$PROJECT_DIR$/html/light/wide/cmd_services_single.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/css/skins/default.css" afterPath="$PROJECT_DIR$/html/light/wide/css/skins/default.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/css/style.css" afterPath="$PROJECT_DIR$/html/light/wide/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/home.html" afterPath="$PROJECT_DIR$/html/light/wide/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/inter_aqua_advance_page.html" afterPath="$PROJECT_DIR$/html/light/wide/inter_aqua_advance_page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/kroma_page.html" afterPath="$PROJECT_DIR$/html/light/wide/kroma_page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/light/wide/php/captcha.php" afterPath="$PROJECT_DIR$/html/light/wide/php/captcha.php" />
+    </list>
     <ignored path="themeforest-8825658-exception-responsive-business-html-template.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -29,64 +78,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/light/wide/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="104" column="33" selection-start-line="104" selection-start-column="33" selection-end-line="104" selection-end-column="33" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CMD_home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/light/wide/CMD_home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="31.423077">
-              <caret line="1020" column="0" selection-start-line="1020" selection-start-column="0" selection-end-line="1020" selection-end-column="0" />
-              <folding>
-                <element signature="e#17797#18303#0" expanded="false" />
-                <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#2;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#6;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#6;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#7;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#15;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#ul#0;n#div#2;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BFF_home.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html/light/wide/BFF_home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7693727">
-              <caret line="742" column="103" selection-start-line="742" selection-start-column="103" selection-end-line="742" selection-end-column="103" />
-              <folding>
-                <element signature="n#nav#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#2;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="0.5645757">
+              <caret line="348" column="107" selection-start-line="348" selection-start-column="107" selection-end-line="348" selection-end-column="107" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -100,60 +97,63 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/html/light/wide/js/contact.js" />
         <option value="$PROJECT_DIR$/html/light/wide/home3.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/php/captcha.php" />
         <option value="$PROJECT_DIR$/html/light/wide/rs-plugin/home_BFF.html" />
         <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single.html" />
         <option value="$PROJECT_DIR$/html/light/wide/contact.php" />
         <option value="$PROJECT_DIR$/html/light/wide/cmd_about-us.html" />
         <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio-2-cols.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_5.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_8.html" />
         <option value="$PROJECT_DIR$/html/light/wide/home_CMD.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/cmd_services_single.html" />
         <option value="$PROJECT_DIR$/html/light/wide/home_BFF.html" />
         <option value="$PROJECT_DIR$/html/light/wide/bff_about-us.html" />
         <option value="$PROJECT_DIR$/html/light/wide/css/responsive.css" />
+        <option value="$PROJECT_DIR$/html/light/wide/php/captcha.php" />
         <option value="$PROJECT_DIR$/html/light/wide/css/skins/default.css" />
-        <option value="$PROJECT_DIR$/html/light/wide/home.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/CMD_home.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/cmd_about.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/cmd_services.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_1.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_2.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_4.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_3.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_7.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_9.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio_all.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_6.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/cmd_current_news.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/cmd_contact.php" />
-        <option value="$PROJECT_DIR$/html/light/wide/cmd_FAQ.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/cmd_privacy.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/kroma_page.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/inter_aqua_advance_page.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/bff_about.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/bff_services.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/bff_privacy.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/bff_FAQ.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/bff_details.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/bff_current_news.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/bff_contact.php" />
         <option value="$PROJECT_DIR$/html/light/wide/css/style.css" />
-        <option value="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_1.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/BFF_home.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/bff_contact.php" />
+        <option value="$PROJECT_DIR$/html/light/wide/bff_FAQ.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_2.html" />
         <option value="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_3.html" />
         <option value="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_4.html" />
         <option value="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_5.html" />
         <option value="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_6.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/bff_portfolio_all.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_2.html" />
         <option value="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_7.html" />
-        <option value="$PROJECT_DIR$/html/light/wide/BFF_home.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/bff_portfolio_all.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/bff_services.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/bff_about.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/bff_current_news.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/bff_details.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/bff_portfolio-single_1.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/inter_aqua_advance_page.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/kroma_page.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/cmd_about.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/cmd_contact.php" />
+        <option value="$PROJECT_DIR$/html/light/wide/cmd_FAQ.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/cmd_group_details.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_1.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_2.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_3.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_4.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/CMD_home.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_5.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_6.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_7.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_8.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_9.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/cmd_services.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/cmd_services_single.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/bff_privacy.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/cmd_privacy.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/cmd_portfolio_all.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/cmd_current_news.html" />
+        <option value="$PROJECT_DIR$/html/light/wide/home.html" />
       </list>
     </option>
   </component>
@@ -197,8 +197,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -213,7 +213,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cmd" />
+              <option name="myItemId" value="cmd_bff_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themeforest-8825658-exception-responsive-business-html-template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cmd_bff_project" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -226,140 +236,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="wide" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themeforest-8825658-exception-responsive-business-html-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cmd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="light" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wide" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themeforest-8825658-exception-responsive-business-html-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cmd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="light" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wide" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themeforest-8825658-exception-responsive-business-html-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cmd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="light" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wide" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bff_single" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themeforest-8825658-exception-responsive-business-html-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cmd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="light" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wide" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themeforest-8825658-exception-responsive-business-html-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cmd" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -370,19 +246,19 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../php/php.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../cmd" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\infoStart\PHP\xampp\htdocs\themeforest\html\light\wide\images\slider\slider-3" />
-      <recent name="E:\infoStart\PHP\xampp\htdocs\themeforest\html\light\wide\images\page-titles" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\projects\xamp\htdocs\cmd\html\light\wide" />
       <recent name="E:\infoStart\PHP\xampp\htdocs\themeforest\html\light\wide" />
+      <recent name="E:\infoStart\PHP\xampp\htdocs\themeforest\html\light\wide\images\page-titles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\infoStart\PHP\xampp\htdocs\themeforest\html\light\wide\images\slider\slider-3" />
       <recent name="E:\infoStart\PHP\xampp\htdocs\themeforest\html\light\wide\images\page-titles" />
     </key>
   </component>
@@ -440,25 +316,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23373677" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2375189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46644294" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46644294" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -479,412 +355,128 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/html/light/wide/images/favicon.ico">
+    <entry file="file://$PROJECT_DIR$/html/light/wide/images/logos/logo-9.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/FAQ.html">
+    <entry file="file://$PROJECT_DIR$/html/light/wide/images/logos/logo-8@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/images/logos/logo-8.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/images/logo-white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/images/logo@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/rs-plugin/css/settings.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.12177122">
+          <caret line="2413" column="13" selection-start-line="2413" selection-start-column="9" selection-end-line="2413" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/images/logo_0.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/rs-plugin/css/settings-ie8.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4815497">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/light/wide/css/gallery.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.15682657">
-          <caret line="56" column="6" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/images/logos/logo-1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/images/logos/logo-2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/about-me.html">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/images/slider/slider-3/slide-1-bg.jpg">
+    <entry file="file://$PROJECT_DIR$/html/light/wide/images/logo_bff.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/images/slider/slider-3/slide-4-bg.jpg">
+    <entry file="file://$PROJECT_DIR$/html/light/wide/images/logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/images/portfolio/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/js/script.js">
+    <entry file="file://$PROJECT_DIR$/html/light/wide/css/skins/default.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.6161972">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1448540630000" expanded="true" signature="22761:23036" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/css/prettyPhoto.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.0350554">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.43274853">
+          <caret line="90" column="58" selection-start-line="90" selection-start-column="58" selection-end-line="90" selection-end-column="58" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_about.html">
+    <entry file="file://$PROJECT_DIR$/html/light/wide/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="16.031364">
-          <caret line="860" column="91" selection-start-line="860" selection-start-column="91" selection-end-line="860" selection-end-column="91" />
-          <folding>
-            <element signature="n#nav#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.599631">
-          <caret line="742" column="47" selection-start-line="742" selection-start-column="47" selection-end-line="742" selection-end-column="47" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71771216">
-          <caret line="689" column="47" selection-start-line="689" selection-start-column="47" selection-end-line="689" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.43274853">
+          <caret line="8415" column="85" selection-start-line="8415" selection-start-column="85" selection-end-line="8415" selection-end-column="85" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0">
-          <caret line="571" column="0" selection-start-line="571" selection-start-column="0" selection-end-line="571" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0738008">
-          <caret line="566" column="67" selection-start-line="566" selection-start-column="67" selection-end-line="566" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.907749">
-          <caret line="109" column="54" selection-start-line="109" selection-start-column="54" selection-end-line="109" selection-end-column="54" />
-          <folding>
-            <element signature="n#nav#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_7.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4704797">
-          <caret line="690" column="47" selection-start-line="690" selection-start-column="47" selection-end-line="690" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_9.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4077491">
-          <caret line="690" column="47" selection-start-line="690" selection-start-column="47" selection-end-line="690" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7546126">
-          <caret line="690" column="47" selection-start-line="690" selection-start-column="47" selection-end-line="690" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_portfolio_all.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18081181">
-          <caret line="680" column="47" selection-start-line="680" selection-start-column="47" selection-end-line="680" selection-end-column="47" />
-          <folding>
-            <element signature="n#nav#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_current_news.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45571956">
-          <caret line="743" column="43" selection-start-line="743" selection-start-column="43" selection-end-line="743" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59029126">
-          <caret line="207" column="0" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_FAQ.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.1549815">
-          <caret line="193" column="0" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_privacy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4077491">
-          <caret line="525" column="55" selection-start-line="525" selection-start-column="55" selection-end-line="525" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/kroma_page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25276753">
-          <caret line="193" column="0" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/inter_aqua_advance_page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.8357933">
-          <caret line="189" column="0" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/images/slider/slider-3/slide-3-bg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/images/slider/slider-3/slide-2-bg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8745387">
-          <caret line="672" column="26" selection-start-line="672" selection-start-column="26" selection-end-line="672" selection-end-column="26" />
-          <folding>
-            <element signature="n#nav#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_current_news.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84317344">
-          <caret line="762" column="22" selection-start-line="762" selection-start-column="22" selection-end-line="762" selection-end-column="22" />
-          <folding>
-            <element signature="n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_FAQ.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9372694">
-          <caret line="767" column="30" selection-start-line="767" selection-start-column="30" selection-end-line="767" selection-end-column="30" />
-          <folding>
-            <element signature="n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_privacy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5608856">
-          <caret line="542" column="34" selection-start-line="542" selection-start-column="34" selection-end-line="542" selection-end-column="34" />
-          <folding>
-            <element signature="n#nav#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_details.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="5.581181">
-          <caret line="731" column="26" selection-start-line="731" selection-start-column="26" selection-end-line="731" selection-end-column="26" />
-          <folding>
-            <element signature="n#nav#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/light/wide/bff_contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37269372">
-          <caret line="654" column="31" selection-start-line="654" selection-start-column="31" selection-end-line="654" selection-end-column="31" />
-          <folding>
-            <element signature="n#nav#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71771216">
-          <caret line="871" column="26" selection-start-line="723" selection-start-column="20" selection-end-line="871" selection-end-column="26" />
-          <folding>
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1501659518068" expanded="true" signature="31960:33326" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/images/bff/our_services/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/images/portfolio/bff/fishpond_801.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7490775">
-          <caret line="8752" column="18" selection-start-line="8752" selection-start-column="18" selection-end-line="8752" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.46125463">
+          <caret line="108" column="37" selection-start-line="108" selection-start-column="37" selection-end-line="108" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/images/portfolio/bff/fishpond_802.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_portfolio-single_1.html">
+    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_details.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8191882">
-          <caret line="410" column="34" selection-start-line="387" selection-start-column="28" selection-end-line="410" selection-end-column="34" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.15682657">
+          <caret line="104" column="36" selection-start-line="104" selection-start-column="36" selection-end-line="104" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_portfolio-single_3.html">
+    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_FAQ.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59225094">
-          <caret line="414" column="1990" selection-start-line="414" selection-start-column="1990" selection-end-line="414" selection-end-column="1990" />
+        <state vertical-scroll-proportion="0.12546125">
+          <caret line="103" column="41" selection-start-line="103" selection-start-column="41" selection-end-line="103" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/BFF_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4280443">
+          <caret line="102" column="35" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="35" />
           <folding>
             <element signature="n#nav#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_portfolio-single_4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43542436">
-          <caret line="387" column="201" selection-start-line="387" selection-start-column="201" selection-end-line="387" selection-end-column="201" />
-          <folding>
-            <element signature="n#nav#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="104" column="33" selection-start-line="104" selection-start-column="33" selection-end-line="104" selection-end-column="33" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_portfolio-single_5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.90590405">
-          <caret line="414" column="2009" selection-start-line="414" selection-start-column="2009" selection-end-line="414" selection-end-column="2009" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_portfolio-single_6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3413284">
-          <caret line="371" column="189" selection-start-line="371" selection-start-column="189" selection-end-line="371" selection-end-column="189" />
-          <folding>
-            <element signature="n#nav#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/CMD_home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="31.423077">
-          <caret line="1020" column="0" selection-start-line="1020" selection-start-column="0" selection-end-line="1020" selection-end-column="0" />
-          <folding>
-            <element signature="e#17797#18303#0" expanded="false" />
-            <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#4;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#5;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#6;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -893,74 +485,298 @@
             <element signature="n#style#0;n#div#6;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#7;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#8;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#10;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#11;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#12;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#13;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#14;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#15;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#ul#0;n#div#2;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#16;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_portfolio-single_7.html">
+    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_portfolio-single_1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43357933">
-          <caret line="415" column="66" selection-start-line="415" selection-start-column="66" selection-end-line="415" selection-end-column="66" />
-          <folding>
-            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#nav#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.42619926">
+          <caret line="104" column="36" selection-start-line="104" selection-start-column="36" selection-end-line="104" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/light/wide/bff_portfolio-single_2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71771216">
-          <caret line="414" column="1959" selection-start-line="414" selection-start-column="1959" selection-end-line="414" selection-end-column="1959" />
-          <folding>
-            <element signature="n#nav#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.59225094">
+          <caret line="103" column="37" selection-start-line="103" selection-start-column="37" selection-end-line="103" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_portfolio-single_3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39483395">
+          <caret line="103" column="37" selection-start-line="103" selection-start-column="37" selection-end-line="103" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_portfolio-single_4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39483395">
+          <caret line="103" column="37" selection-start-line="103" selection-start-column="37" selection-end-line="103" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_portfolio-single_5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49446493">
+          <caret line="103" column="37" selection-start-line="103" selection-start-column="37" selection-end-line="103" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_portfolio-single_6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59225094">
+          <caret line="103" column="37" selection-start-line="103" selection-start-column="37" selection-end-line="103" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_portfolio-single_7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39483395">
+          <caret line="103" column="37" selection-start-line="103" selection-start-column="37" selection-end-line="103" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/light/wide/bff_portfolio_all.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12546125">
-          <caret line="522" column="85" selection-start-line="522" selection-start-column="85" selection-end-line="522" selection-end-column="85" />
+        <state vertical-scroll-proportion="0.49446493">
+          <caret line="103" column="37" selection-start-line="103" selection-start-column="37" selection-end-line="103" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/kroma_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37638375">
+          <caret line="103" column="37" selection-start-line="103" selection-start-column="37" selection-end-line="103" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/inter_aqua_advance_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4391144">
+          <caret line="99" column="37" selection-start-line="99" selection-start-column="37" selection-end-line="99" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4077491">
+          <caret line="102" column="31" selection-start-line="102" selection-start-column="31" selection-end-line="102" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_current_news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18819188">
+          <caret line="99" column="38" selection-start-line="99" selection-start-column="38" selection-end-line="99" selection-end-column="38" />
           <folding>
-            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#nav#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/light/wide/BFF_home.html">
+    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7693727">
-          <caret line="742" column="103" selection-start-line="742" selection-start-column="103" selection-end-line="742" selection-end-column="103" />
+        <state vertical-scroll-proportion="0.4704797">
+          <caret line="756" column="68" selection-start-line="756" selection-start-column="42" selection-end-line="756" selection-end-column="68" />
           <folding>
-            <element signature="n#nav#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65867156">
+          <caret line="336" column="25" selection-start-line="336" selection-start-column="25" selection-end-line="336" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6900369">
+          <caret line="279" column="29" selection-start-line="279" selection-start-column="29" selection-end-line="279" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_FAQ.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57749075">
+          <caret line="629" column="33" selection-start-line="629" selection-start-column="33" selection-end-line="629" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_group_details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7527675">
+          <caret line="632" column="29" selection-start-line="632" selection-start-column="29" selection-end-line="632" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6863469">
+          <caret line="217" column="25" selection-start-line="217" selection-start-column="25" selection-end-line="217" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.84686345">
+          <caret line="609" column="59" selection-start-line="609" selection-start-column="59" selection-end-line="609" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5645757">
+          <caret line="215" column="25" selection-start-line="215" selection-start-column="25" selection-end-line="215" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6273063">
+          <caret line="205" column="25" selection-start-line="205" selection-start-column="25" selection-end-line="205" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6402214">
+          <caret line="606" column="29" selection-start-line="606" selection-start-column="29" selection-end-line="606" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6273063">
+          <caret line="217" column="25" selection-start-line="217" selection-start-column="25" selection-end-line="217" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="8.5">
+          <caret line="608" column="29" selection-start-line="608" selection-start-column="29" selection-end-line="608" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7214022">
+          <caret line="606" column="29" selection-start-line="606" selection-start-column="29" selection-end-line="606" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_portfolio-single_9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53321034">
+          <caret line="609" column="0" selection-start-line="609" selection-start-column="0" selection-end-line="609" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6236162">
+          <caret line="320" column="0" selection-start-line="320" selection-start-column="0" selection-end-line="320" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_services_single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65867156">
+          <caret line="661" column="0" selection-start-line="661" selection-start-column="0" selection-end-line="661" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/CMD_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53321034">
+          <caret line="250" column="0" selection-start-line="240" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/bff_privacy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53321034">
+          <caret line="380" column="207" selection-start-line="380" selection-start-column="207" selection-end-line="380" selection-end-column="207" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_portfolio_all.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12546125">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_current_news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12546125">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/cmd_privacy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12546125">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/light/wide/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5645757">
+          <caret line="348" column="107" selection-start-line="348" selection-start-column="107" selection-end-line="348" selection-end-column="107" />
+          <folding />
         </state>
       </provider>
     </entry>

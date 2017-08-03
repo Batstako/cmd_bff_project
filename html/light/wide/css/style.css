@@ -541,6 +541,9 @@ header.top-head {
 header.top-head .logo {
     margin-top: 20px;
 }
+header.top-head .logo1 {
+    margin-top: 20px;
+    }
 
 header.top-head .logo a {
     display: table;
@@ -548,10 +551,19 @@ header.top-head .logo a {
     height: 47px;
     margin: auto;
 }
+header.top-head .logo1 a {
+    display: table;
+    width: 207px;
+    height: 47px;
+    margin: auto;
+    }
 
 header.top-head .logo.center a {
     margin: auto
 }
+header.top-head .logo1.center a {
+    margin: auto
+    }
 
 /* ---- 3.3 Main menu ------------------ */
 .top-menu {
@@ -812,6 +824,9 @@ header.top-head .logo.center a {
 header.top-head.nav-2 .logo, header.top-head.nav-3 .logo {
     margin-top: 25px
 }
+header.top-head.nav-2 .logo1, header.top-head.nav-3 .logo1 {
+    margin-top: 25px
+    }
 
 /************ navgation style 2 ************/
 .nav-3 .top-nav > ul > li {
@@ -923,6 +938,10 @@ header.top-head-4 .logo {
     text-align: center;
     padding-bottom: 20px;
 }
+header.top-head-4 .logo1 {
+    text-align: center;
+    padding-bottom: 20px;
+    }
 
 .nav-4 .search-box {
     top: 49px;
@@ -1069,6 +1088,9 @@ header.top-head-4 .logo {
 .sticky .logo {
     margin-top: 5px !important
 }
+.sticky .logo1 {
+    margin-top: 5px !important
+    }
 
 .sticky .top-nav > ul > li.hasChildren > a:after {
     display: none !important
@@ -1082,6 +1104,9 @@ header.top-head-4 .logo {
 .head-style2 .sticky .logo {
     padding: 0 !important
 }
+.head-style2 .sticky .logo1 {
+    padding: 0 !important
+    }
 
 .head-style2 .sticky .top-menu {
     margin-top: 0 !important
@@ -1132,7 +1157,9 @@ header.top-head-4 .logo {
 .head-style3 .sticky .logo, .sticky.top-head-4 .logo {
     display: none
 }
-
+.head-style3 .sticky .logo1, .sticky.top-head-4 .logo1 {
+    display: none
+    }
 .head-style3 .sticky .mega-menu .mega-2 .div-mega {
     top: 50px
 }
@@ -1277,6 +1304,11 @@ header.top-head-4 .logo {
     padding: 15px 0 14px;
     min-width: 230px;
 }
+.head-style2 .logo1 {
+    margin: 8px 0 0 0 !important;
+    padding: 15px 0 14px;
+    min-width: 230px;
+    }
 
 .head-style2 .top-head, .head-style3 .top-head {
     padding: 0;
@@ -1399,6 +1431,9 @@ header.top-head-4 .logo {
 .head-style2 .logo a, .head-style3 .logo a {
     margin: auto
 }
+.head-style2 .logo1 a, .head-style3 .logo1 a {
+    margin: auto
+    }
 
 /* ---- 3.6 Header style 3 ---------------- */
 .head-style3 .top-bar {
@@ -1413,6 +1448,13 @@ header.top-head-4 .logo {
     padding: 15px 15px 20px;
     text-align: center;
 }
+.head-style3 .logo1 {
+    display: table;
+    float: none;
+    margin: 0 auto !important;
+    padding: 15px 15px 20px;
+    text-align: center;
+    }
 
 .top-nav-style3 {
     height: 50px;
@@ -6990,6 +7032,12 @@ a.wit-btn {
     margin: -8px auto 9px;
     text-align: center;
 }
+.footer-top-2 .foot-logo1 {
+    border-bottom: 1px solid #3a3a3a;
+    height: 52px;
+    margin: -8px auto 9px;
+    text-align: center;
+    }
 
 .footer-top-2 .social-list li a {
     margin: 0 6px 0 0;
@@ -7186,6 +7234,10 @@ a.wit-btn {
     height: 52px;
     text-align: center;
 }
+.footer-top-4 .foot-logo1 {
+    height: 52px;
+    text-align: center;
+    }
 
 .footer-top-4 .copyrights, .footer-top-4 .footer-menu-inline {
     background: #1d1d1d;
@@ -7200,6 +7252,9 @@ a.wit-btn {
 .footer-top-4 .foot-logo {
     background-position: 0 0
 }
+.footer-top-4 .foot-logo {
+    background-position: 0 0
+    }
 
 /******** footer menu ********/
 .footer-top .footer-menu a {
@@ -7221,6 +7276,11 @@ a.wit-btn {
     margin: 0 auto 5px;
     text-align: center;
 }
+.foot-logo1 {
+    height: 40px;
+    margin: 0 auto 5px;
+    text-align: center;
+    }
 
 footer .NL {
     position: relative;
@@ -7952,11 +8012,19 @@ header.top-head .logo a {
     margin-right: 0;
     margin-left: 0
 }
+header.top-head .logo1 a {
+    margin-right: 0;
+    margin-left: 0
+    }
 
 header.top-head.top-head-4 .logo a, .head-style2 header.top-head .logo a, .head-style3 header.top-head .logo a {
     margin-left: auto;
     margin-right: auto
 }
+header.top-head.top-head-4 .logo1 a, .head-style2 header.top-head .logo1 a, .head-style3 header.top-head .logo1 a {
+    margin-left: auto;
+    margin-right: auto
+    }
 
 .portfolio-filterable.full {
     padding: 0 15px
@@ -8345,7 +8413,9 @@ header.top-head.top-head-4 .logo a, .head-style2 header.top-head .logo a, .head-
 .left-side-header header.top-head .logo a, .right-side-header header.top-head .logo a {
     margin: auto
 }
-
+.left-side-header header.top-head .logo1 a, .right-side-header header.top-head .logo1 a {
+    margin: auto
+    }
 .side-nav {
     padding: 30px 0 10px
 }

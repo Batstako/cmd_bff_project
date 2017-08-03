@@ -60,7 +60,7 @@ function simple_php_captcha($config = array()) {
     if( $captcha_config['max_font_size'] < $captcha_config['min_font_size'] ) $captcha_config['max_font_size'] = $captcha_config['min_font_size'];
     
     // Use milliseconds instead of seconds
-    var_dump(srand(microtime() * 100)) ;
+    srand(microtime() * 100);
     
     // Generate CAPTCHA code if not set by user
     if( empty($captcha_config['code']) ) {

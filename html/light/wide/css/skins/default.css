@@ -87,6 +87,9 @@ blockquote {
 header.top-head .logo a, .foot-logo {
 	background: transparent url('../../images/logo.png') no-repeat 50% 50%;
 }
+header.top-head .logo1 a, .foot-logo {
+	background: transparent url('../../images/logo_bff.png') no-repeat 50% 50%;
+	}
 .footer-top-2 .foot-logo {
     background: transparent url('../../images/logo.png') no-repeat;
 }
