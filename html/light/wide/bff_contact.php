@@ -14,8 +14,8 @@
 		<!-- Mobile Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		
-		<!-- Put favicon.ico and apple-touch-icon(s).png in the images folder -->
-	    <link rel="shortcut icon" href="images/favicon.ico">
+		<!-- Put Портфолио and apple-touch-icon(s).png in the images folder -->
+	    <link rel="shortcut icon" href="images/bff.ico">
 		    	
 		<!-- CSS StyleSheets -->
 		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800&amp;amp;subset=latin,latin-ext">

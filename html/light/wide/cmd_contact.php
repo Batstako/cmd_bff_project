@@ -14,7 +14,7 @@ $_SESSION['captcha'] = simple_php_captcha();
     <!-- Mobile Meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-    <!-- Put favicon.ico and apple-touch-icon(s).png in the images folder -->
+    <!-- Put bff.ico and apple-touch-icon(s).png in the images folder -->
     <link rel="shortcut icon" href="images/cmd.ico">
 
     <!-- CSS StyleSheets -->
