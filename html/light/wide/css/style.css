@@ -4162,6 +4162,9 @@ button.skew-25 i {
 .title-11 .breadcrumbs {
     background-color: #777 !important
 }
+.title-kroma .breadcrumbs {
+    background-color: #777 !important
+    }
 
 .breadcrumbs a {
     float: left;
@@ -6220,6 +6223,13 @@ img.loader {
     -webkit-background-size: cover;
     background-size: cover;
 }
+.title-kroma {
+    background: #fff url('../images/page-titles/kroma_baner.jpg') no-repeat 50% 50%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    }
 
 .title-1 h1 {
     margin-top: 30px;
@@ -6230,6 +6240,10 @@ img.loader {
     margin-top: 30px;
     margin-bottom: 30px;
 }
+.title-kroma h1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    }
 
 .empty-title {
     padding-bottom: 50px;
