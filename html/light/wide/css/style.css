@@ -4905,7 +4905,7 @@ button.skew-25 i {
 
 .details-img:after, .post-image:after {
     top: 0;
-    height: 6px;
+    height: 0px;/*For border over the image in services page set height to 6px*/
     display: inline-block;
     content: "";
     width: 100%;
@@ -7997,7 +7997,7 @@ a.main-color:hover, .project-name:hover, .box-top .more-btn:hover {
 }
 
 .post-image a .mask {
-    top: 3px
+    top: 1px
 }
 
 .news-masnory .gallery li {
