@@ -106,8 +106,8 @@
 		<header class="top-head" data-sticky="true">
 			<div class="container">
 				<div class="row">
-					<div class="logo1 cell-3">
-						<a href="BFF_home.html"></a>
+					<div class="logo1 cell-3" style="margin:0px; height:80px;!important;">
+						<a href="BFF_home.html" style="height:100%; !important;">&nbsp;</a>
 					</div>
 					<div class="cell-9 top-menu">
 
@@ -329,23 +329,6 @@
 <!--								</li>-->
 							</ul>
 						</nav>
-						<!-- top navigation menu end -->
-
-						<!-- top search start -->
-						<!-- search bar ne ni triabva v momenta
-                        <div class="top-search">
-                            <a href="#"><span class="fa fa-search"></span></a>
-                            <div class="search-box">
-                                <div class="input-box left">
-                                    <input type="text" name="t" id="t-search" class="txt-box" placeHolder="Enter search keyword here..." />
-                                </div>
-                                <div class="left">
-                                    <input type="submit" id="b-search" class="btn main-bg" value="GO" />
-                                </div>
-                            </div>
-                        </div>
-                        -->
-						<!-- top search end -->
 					</div>
 				</div>
 			</div>

@@ -67,8 +67,8 @@ $_SESSION['captcha'] = simple_php_captcha();
     <header class="top-head" data-sticky="true">
         <div class="container">
             <div class="row">
-                <div class="logo cell-3">
-                    <a href="CMD_home.html"></a>
+                <div class="logo cell-3" style="margin:0px; height:80px;!important;">
+                    <a href="CMD_home.html" style="height:100%; !important;">&nbsp;</a>
                 </div>
                 <div class="cell-9 top-menu">
 

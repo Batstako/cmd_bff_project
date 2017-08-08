@@ -18,7 +18,7 @@
 [class*="cell-"],.masonry .post-item {
 	position: relative;
 	min-height: 1px;
-	padding-left: 15px;
+	padding-left: 33px;
 	padding-right:15px;
 	float:left
 }
