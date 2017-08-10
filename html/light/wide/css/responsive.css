@@ -18,7 +18,7 @@
 [class*="cell-"],.masonry .post-item {
 	position: relative;
 	min-height: 1px;
-	padding-left: 33px;
+	padding-left: 33px; /*Changed to 33px, was 15px */
 	padding-right:15px;
 	float:left
 }
@@ -153,10 +153,19 @@
 	header.top-head .logo{
 		margin-bottom:20px
 	}
+	header.top-head .logo1{
+		margin-bottom:20px
+		}
+
 	header.top-head .logo a{
 		background-position:50% 0 !important;
 		margin-bottom:15px
 	}
+	header.top-head .logo1 a{
+		background-position:50% 0 !important;
+		margin-bottom:15px
+		}
+
 	.toolsBar .left,.top-bar [class*="cell-"]{
 		clear:none !important;
 		float:left !important;
@@ -273,6 +282,10 @@
 	header.top-head .logo a{
 		margin:auto
 	}
+	header.top-head .logo1 a{
+		margin:auto
+		}
+
 	.portfolio-img-slick{
 		margin-bottom:20px
 	}
@@ -350,6 +363,10 @@
 	.one-page header.top-head .logo{
 		margin-bottom:0
 	}
+	.one-page header.top-head .logo1{
+		margin-bottom:0
+		}
+
 	.one-page .menuBtn {
 		position:fixed !important
 	}
@@ -559,7 +576,11 @@
 	header.top-head .logo{
 		margin-bottom:0
 	}
-}
+	header.top-head .logo1{
+		margin-bottom:0
+		}
+
+	}
 @media (max-width: 640px){
 	.pager,.pager *{
 		transform: skew(0deg, 0);
