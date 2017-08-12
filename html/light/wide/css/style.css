@@ -4166,6 +4166,14 @@ button.skew-25 i {
     background-color: #777 !important
     }
 
+.title-bff .breadcrumbs {
+    background-color: #777 !important
+}
+
+.title-cmd .breadcrumbs {
+    background-color: #777 !important
+}
+
 .breadcrumbs a {
     float: left;
     margin: 0 3px;
@@ -6223,6 +6231,23 @@ img.loader {
     -webkit-background-size: cover;
     background-size: cover;
 }
+
+.title-bff {
+    background: #fff url('../images/page-titles/Aquaculture.jpg') no-repeat 50% 50%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.title-cmd {
+    background: #fff url('../images/page-titles/Aquaculture.jpg') no-repeat 50% 50%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
 .title-kroma {
     background: #fff url('../images/page-titles/kroma_baner.jpg') no-repeat 50% 50%;
     -moz-background-size: cover;
@@ -6240,6 +6265,17 @@ img.loader {
     margin-top: 30px;
     margin-bottom: 30px;
 }
+
+.title-bff h1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.title-cmd h1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
 .title-kroma h1 {
     margin-top: 30px;
     margin-bottom: 30px;
