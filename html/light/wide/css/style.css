@@ -10661,6 +10661,13 @@ i.icon {
     text-align: center !important;
 }
 
+.blue-darker-cmd{
+    /*color: #4286f4 !important;*/
+    color: #79b2da!important;
+    text-align: center !important;
+    font-weight: bold !important;
+}
+
 .padding_text{
     padding-top:10px;
     }
