@@ -113,7 +113,7 @@ $_SESSION['captcha'] = simple_php_captcha();
         <div class="container">
             <div class="row">
                 <div class="cell-12">
-                    <h1 class="fx blue-darker" >КОНТАКТИ <span></span></h1>
+                    <h1 class="fx blue-darker-cmd" >КОНТАКТИ <span></span></h1>
                     <div style="visibility:hidden" class="breadcrumbs main-bg fx" data-animate="fadeInUp">
                         <span class="bold">You Are In:</span><a href="#">Home</a><span class="line-separate">/</span><a
                             href="#">Pages </a><span class="line-separate">/</span><span
