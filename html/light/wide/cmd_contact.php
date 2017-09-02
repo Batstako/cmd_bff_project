@@ -113,6 +113,7 @@ $_SESSION['captcha'] = simple_php_captcha();
         <div class="container">
             <div class="row">
                 <div class="cell-12">
+                    &nbsp;
                     <h1 class="fx blue-darker-cmd" >КОНТАКТИ <span></span></h1>
                     <div style="visibility:hidden" class="breadcrumbs main-bg fx" data-animate="fadeInUp">
                         <span class="bold">You Are In:</span><a href="#">Home</a><span class="line-separate">/</span><a
@@ -122,14 +123,13 @@ $_SESSION['captcha'] = simple_php_captcha();
                 </div>
             </div>
         </div>
-        ss
     </div>
 
     <div class="padd-top-50">
         <div class="container">
             <div class="row">
                 <div class="cell-7 contact-form fx" data-animate="fadeInLeft" id="contact">
-                    <h3 sclass="block-head">За връзка с нас</h3>
+                    <h3 class="block-head">За връзка с нас</h3>
                     <mark id="message"></mark>
 
                     <form class="form-signin cform" method="post" action="php/contact.php" id="cform" autocomplete="on">
